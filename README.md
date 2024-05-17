@@ -1,4 +1,4 @@
-# HTML COURSE 
+# Introduction of HTML
 
 What is HTML ?
 
