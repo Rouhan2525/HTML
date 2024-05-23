@@ -10,9 +10,11 @@ Your browser does not support the video tag.
 
 How it Works ?
 
-The controls attribute adds video controls, like play, pause, and volume.
+The controls attribute adds video   controls, 
+like play, pause, and volume.
 
-It is a good idea to always include width and height attributes. If height and width are not set, the page might flicker while the video loads.
+It is a good idea to always include width and height attributes.
+ If height and width are not set, the page might flicker while the video loads.
 
 The <source> element allows you to specify alternative video files which the browser may choose from. The browser will use the first recognized format.
 
