@@ -1,3 +1,4 @@
+
 [  HTML <hr> Tag  ]
 
 The <hr> tag in HTML represents a thematic break, typically displayed as a horizontal rule. It's commonly used to visually separate content or indicate a change in topic within a webpage. The primary purpose of the <hr> tag is to create a visual separation between content sections within an HTML page.
