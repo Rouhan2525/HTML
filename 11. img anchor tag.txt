@@ -1,3 +1,4 @@
+
  [ Definition and Usage ]
 
 The <img> tag is used to embed an image in an HTML page.
