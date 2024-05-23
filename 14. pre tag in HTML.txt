@@ -1,0 +1,3 @@
+[  HTML <pre> Tag  ]
+
+The <pre> tag in HTML is used to define the block of preformatted text which preserves the text spaces, line breaks, tabs, and other formatting characters that are ignored by web browsers. Text in the <pre> element is displayed in a fixed-width font, but it can be changed using CSS. The <pre> tag requires a starting and end tag.

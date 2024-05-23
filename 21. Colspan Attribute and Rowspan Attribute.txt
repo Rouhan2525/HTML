@@ -1,0 +1,20 @@
+ [  Definition and Usage  ]
+
+The colspan attribute defines the number of columns a table cell should span.
+
+ [ Applies to ]
+
+The colspan attribute can be used on the following elements:
+
+Elements	Attribute
+<td>	colspan
+<th>	colspan
+
+
+[  Definition and Usage  ]
+
+The rowspan attribute specifies the number of rows a cell should span.
+
+ [  Applies to  ]
+
+The rowspan attribute can be used on the following elements:

@@ -1,0 +1,83 @@
+a. <input type ="color"> :
+
+The <input type="color"> is used for input fields that should contain a color.
+Depending on browser support, a color picker can show up in the input field.
+
+b. <input type ="date"> :
+
+he <input type="date"> is used for input fields that should contain a date.
+Depending on browser support, a date picker can show up in the input field.
+
+c. <input type ="datetime-local"> :
+
+The <input type="datetime-local"> specifies a date and time input field, with no time zone.
+
+d. <input type ="email"> :
+
+The <input type="email"> is used for input fields that should contain an e-mail address.
+
+e. <input type ="file"> :
+
+The <input type="file"> defines a file-select field and a "Browse" button for file uploads.
+
+f. <input type ="hidden"> :
+
+The <input type="hidden"> defines a hidden input field (not visible to a user).
+
+A hidden field lets web developers include data that cannot be seen or modified by users when a form is submitted.
+
+A hidden field often stores what database record that needs to be updated when the form is submitted.
+
+Note: While the value is not displayed to the user in the page's content, it is visible (and can be edited) using any browser's developer tools or "View Source" functionality. Do not use hidden inputs as a form of security!
+
+g. <input type ="image"> :
+
+The <input type="image"> defines an image as a submit button.
+
+The path to the image is specified in the src attribute.
+
+h. <input type ="month"> :
+
+The <input type="month"> allows the user to select a month and year.
+
+i. <input type ="number"> :
+
+The <input type="number"> defines a numeric input field.
+You can also set restrictions on what numbers are accepted.
+
+j. <input type ="password"> :
+
+<input type="password"> defines a password field:
+
+k. <input type ="range"> : 
+
+The <input type="range"> defines a control for entering a number whose exact value is not important (like a slider control). Default range is 0 to 100. However, you can set restrictions on what numbers are accepted with the min, max, and step attributes:
+
+l. <input type ="reset"> : 
+
+<input type="reset"> defines a reset button that will reset all form values to their default values:
+
+m. <input type ="reset"> :
+
+<input type="reset"> defines a reset button that will reset all form values to their default value.
+
+n. <input type ="search"> :
+
+The <input type="search"> is used for search fields (a search field behaves like a regular text field).
+
+o. <input type ="tel"> :
+
+The <input type="tel"> is used for input fields that should contain a telephone number.
+
+p. <input type ="time"> :
+
+The <input type="time"> allows the user to select a time (no time zone).
+
+
+q. <input type ="url"> :
+
+The <input type="url"> is used for input fields that should contain a URL address.
+
+r. <input type ="week"> :
+
+The <input type="week"> allows the user to select a week and year.

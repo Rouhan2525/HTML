@@ -1,0 +1,19 @@
+[  Definition and Usage  ]
+
+The <link> tag defines the relationship between the current document and an external resource.
+
+The <link> tag is most often used to link to external style sheets or to add a favicon to your website.
+
+The <link> element is an empty element, it contains attributes only.
+
+a. Global Attributes :
+
+The <link> tag also supports the Global Attributes in HTML.
+
+b. Event Attributes :
+
+The <link> tag also supports the Event Attributes in HTML.
+
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>

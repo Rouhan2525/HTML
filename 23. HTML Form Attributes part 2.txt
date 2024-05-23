@@ -1,0 +1,34 @@
+[  The Target Attribute  ]
+
+The target attribute specifies where to display the response that is received after submitting the form.
+The target attribute can have one of the following values:
+
+Value	Description
+_blank	The response is displayed in a new window or tab
+_self	The response is displayed in the current window
+_parent	The response is displayed in the parent frame
+_top	The response is displayed in the full body of the window
+framename	The response is displayed in a named iframe
+The default value is _self which means that the response will open in the current window.
+
+ [  The Method Attribute  ]
+
+The method attribute specifies the HTTP method to be used when submitting the form data.
+
+The form-data can be sent as URL variables (with method="get") or as HTTP post transaction (with method="post").
+
+The default HTTP method when submitting form data is GET.
+<form action="/action_page.php" method="get">
+<form action="/action_page.php" method="post">
+
+[  The Autocomplete Attribute  ]
+
+The autocomplete attribute specifies whether a form should have autocomplete on or off.
+When autocomplete is on, the browser automatically complete values based on values that the user has entered before.
+<form action="/action_page.php" autocomplete="on">
+
+[  The Novalidate Attribute  ]
+
+The novalidate attribute is a boolean attribute.
+When present, it specifies that the form-data (input) should not be validated when submitted
+<form action="/action_page.php" novalidate>

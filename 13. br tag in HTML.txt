@@ -1,0 +1,5 @@
+[  HTML <br> Tag  ]
+
+HTML <br> tag is a powerful tool for controlling the layout of your text. Unlike word processors, web browsers don’t automatically recognize new lines or paragraph formatting. This is where the <br> tag comes into play.
+
+The <br> tag is a self-closing element, meaning it doesn’t require a closing tag. It’s commonly used in addresses, poetry, or any situation where a line break is needed for better readability.
